@@ -3,12 +3,14 @@
 - 👀 I’m interested in:
 -- Hacking,
 -- Coding:
---- Java,
+--- JavaScript,
 --- Python:
 ---- Python,
 ---- MicroPython,
 --- PHP,
 --- HTML,
+--- CSS,
+--- c++
 --- SQL,
 --- bash-sh.
 
@@ -16,4 +18,4 @@
 -- My Phone number:
 --- +** **********
 -- My E-Mail:
---- maoudismcgrath@gmail.com
+--- AlliInavations@gmail.com
