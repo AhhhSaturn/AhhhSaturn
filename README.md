@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @doordedoor0
 
-- 👀 I’m interested in:
--- Hacking,
--- Coding:
---- JavaScript,
---- Python:
----- Python,
----- MicroPython,
---- PHP,
---- HTML,
---- CSS,
---- c++
---- SQL,
---- bash-sh.
+- 👀 I’m interested in: <br>
+-- Hacking, <br>
+-- Coding: <br>
+--- JavaScript, <br>
+--- Python: <br>
+---- Python, <br>
+---- MicroPython, <br>
+--- PHP, <br>
+--- HTML, <br>
+--- CSS, <br>
+--- c++, <br>
+--- SQL, <br>
+--- bash-sh. <br>
 
-- 📫 How to reach me:
--- My Phone number:
---- +** **********
--- My E-Mail:
---- AlliInavations@gmail.com
+- 📫 How to reach me: <br>
+-- My Phone number: <br>
+--- +** ********** <br>
+-- My E-Mail: <br>
+--- AlliInnovations@gmail.com <br>
