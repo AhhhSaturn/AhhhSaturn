@@ -1,21 +1,4 @@
-- 👋 Hi, I’m Doordedoor0
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👀 I’m interested in: <br>
--- Hacking, <br>
--- Coding: <br>
---- JavaScript, <br>
---- Python: <br>
----- Python, <br>
----- MicroPython, <br>
---- PHP, <br>
---- HTML, <br>
---- CSS, <br>
---- c++, <br>
---- SQL, <br>
---- bash-sh. <br>
 
-- 📫 How to reach me: <br>
--- My Phone number: <br>
---- +** ********** <br>
--- My E-Mail: <br>
---- AlliInnovations@gmail.com <br>
+
