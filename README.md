@@ -6,7 +6,7 @@ A non-binary developer that still can't decided if they want to be front/back en
 
 ## 📫 How to reach me: <br>
 -- My Phone number: <br>
---- +** ********** <br>
+--- +44 ********** <br>
 -- My E-Mail: <br>
 --- AlliInnovations@gmail.com <br>
 
