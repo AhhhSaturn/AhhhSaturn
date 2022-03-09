@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Saturn
 
-A non-binary developer that still can't decided if they want to be front/back end or full-stack.
-*leaning towards front end*
+A non-binary full-stack developer.
 
 
 ## 📫 How to reach me: <br>
 -- My Phone number: <br>
 --- +44 ********** <br>
 -- My E-Mail: <br>
---- AlliInnovations@gmail.com <br>
+--- saturnmaoudis@protonmail.com <br>
 
 
 <br>
