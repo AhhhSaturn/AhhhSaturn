@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saturn
 
-A non-binary full-stack web developer.
+A full-stack web developer.
 
 ## 📫 How to reach me: <br>
 -- My E-Mail: <br>
